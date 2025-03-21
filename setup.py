@@ -24,7 +24,7 @@ setup(
     ],
     install_requires=[
         'pypokerengine',
-        'tornado==4.4.2',
+        'tornado==6.4.2',
         'click==6.7',
         'PyYAML==3.12',
     ],
